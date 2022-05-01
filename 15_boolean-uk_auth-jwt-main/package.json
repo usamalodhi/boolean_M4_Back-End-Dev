@@ -1,0 +1,23 @@
+{
+  "name": "auth-jwt",
+  "version": "1.0.0",
+  "description": "## Learning Objectives",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boolean-uk/auth-jwt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boolean-uk/auth-jwt/issues"
+  },
+  "homepage": "https://github.com/boolean-uk/auth-jwt#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
